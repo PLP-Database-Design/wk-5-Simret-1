@@ -167,9 +167,9 @@ Bonus Round (scoring arithmetic and triggers)
 
 | Name | Role | Initials | Date |
 |------|------|-----------|------|
-| | Test Manager | Simret | Oct 30, 2025 |
-| | Risk Analyst | Simret | Oct 30, 2025 |
-| | Test Executor | Simret | Oct 30, 2025 |
+| Simret | Test Manager | Simret | Oct 30, 2025 |
+| Simret | Risk Analyst | Simret | Oct 30, 2025 |
+| Simret | Test Executor | Simret | Oct 30, 2025 |
 
 ## Overall Summary
 
